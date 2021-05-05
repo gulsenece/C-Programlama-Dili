@@ -1,7 +1,7 @@
 #include <stdio.h>
  
  
-// Switch case yapýsý ile Hesap Makinesi 
+// Switch case yapÄ±sÄ± ile Hesap Makinesi 
 
 int main()
 {
@@ -22,11 +22,11 @@ int main()
         case 1:
         	
         	printf("Toplama icin 1.Sayiyi giriniz:");
-    		scanf("%d",&sayi1);
-    		printf("Toplama icin 2.Sayiyi giriniz: ");
-    		scanf("%d",&sayi2);
-            printf("Toplama isleminin sonucu : %d",sayi1 + sayi2);
-            break;
+    		   scanf("%d",&sayi1);
+    	   	printf("Toplama icin 2.Sayiyi giriniz: ");
+    	   	scanf("%d",&sayi2);
+         printf("Toplama isleminin sonucu : %d",sayi1 + sayi2);
+       break;
             
             
         case 2:
